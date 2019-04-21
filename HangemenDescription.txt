@@ -1,0 +1,13 @@
+open the game hangman 
+
+there is a text for a guess ,inser a letter (a single letter)
+
+if the letter is in the "mystery word" then the game will allow you to keep on guessing
+if you fail to guess correctly for a certain number of times, then youll fail (hang your self)
+
+if you win youll be notified
+you can also increase the level of hardness
+
+
+
+Enjoy!
